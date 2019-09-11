@@ -1,0 +1,22 @@
+{
+  "name": "learning1",
+  "version": "1.0.0",
+  "description": "Project TAXI",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha tests/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalikovSoft/Learning1.git"
+  },
+  "keywords": [
+    "taxi"
+  ],
+  "author": "Alexander Malikov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MalikovSoft/Learning1/issues"
+  },
+  "homepage": "https://github.com/MalikovSoft/Learning1#readme"
+}
